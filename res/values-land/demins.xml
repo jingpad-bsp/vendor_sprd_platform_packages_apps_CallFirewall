@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPRD: modify for bug 716232 @{ -->
+    <dimen name="blocked_add_margin">4dip</dimen>
+    <dimen name="black_calls_add_type_label_size">12sp</dimen>
+    <dimen name="black_calls_add_type_label_margin_start">6dip</dimen>
+    <!-- @} -->
+</resources>

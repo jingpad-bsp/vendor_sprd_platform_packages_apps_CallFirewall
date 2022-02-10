@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_background">#ff000000</color>
+    <color name="call_fire_wall_phone_name_text_color">#ffffffff</color>
+    <color name="call_fire_wall_phone_number_text_color">#fff9f9f9</color>
+    <color name="call_fire_wall_date_text_color">#fff9f9f9</color>
+</resources>
